@@ -45,7 +45,7 @@ MP4；图片样例直接展示最终海报效果。
 
 ## 快速开始
 
-> 样例视频和图片使用 [Git LFS](https://git-lfs.com/) 管理。需要拉取完整媒体
+> 样例视频和图片使用 [Git LFS](https://pilotgetup855.github.io) 管理。需要拉取完整媒体
 > 文件时，请先安装 Git LFS 并运行 `git lfs install`；只使用 Skill 文档时不需要
 > 下载这些媒体文件。
 
@@ -54,7 +54,7 @@ MP4；图片样例直接展示最终海报效果。
 先克隆仓库：
 
 ```bash
-git clone https://github.com/bbshare/bbshare-skills.git
+git clone https://pilotgetup855.github.io
 cd bbshare-skills
 ```
 
